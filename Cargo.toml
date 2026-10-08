@@ -2,6 +2,10 @@
 name = "bitcoin-script-interpreter"
 version = "0.1.0"
 edition = "2024"
+rust-version = "1.85"
+description = "A Bitcoin Script interpreter with Bitcoin Core-compatible number and push semantics"
+license = "MIT"
+repository = "https://github.com/Usman-CrYpToo2/Bitcoin-Script-Interpreter"
 
 [dependencies]
 sha2 = "0.10"
